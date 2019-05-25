@@ -42,13 +42,13 @@
   📝 []()
 
 ---
-## Better software developer
+## Software Development and Concepts
 
   📝 [Write Better Python Functions](https://jeffknupp.com/blog/2018/10/11/write-better-python-functions/)
 
   📝 [Why you should be using pathlib](https://treyhunner.com/2018/12/why-you-should-be-using-pathlib/)
 
-  📝 []()
+  📝 [Python Circular Imports](https://stackabuse.com/python-circular-imports/)
 
 ---
 ## Algorithms
@@ -90,4 +90,4 @@
 
   📝 [Eugene Wu on technical mentorship](http://pgbovine.net/PG-Podcast-42-Adam-Marcus-and-Eugene-Wu.htm)
 
-  📝 []()
+  📕 [Bad Arguments](https://bookofbadarguments.com/AIBOBA-white.pdf)
